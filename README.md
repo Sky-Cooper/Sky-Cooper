@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 I’m a 5th-year Software Engineering student passionate about **building intelligent, scalable, and user-centered digital ecosystems**.  
-As the **Co-Founder of Qreeblik Medical**, I led the full design and development of a healthcare SaaS platform — featuring a **web dashboard for doctors** and a **mobile app for patients**, powered by **Django, React, and AI-driven automation**.  
+As the **Co-Founder of Qreeblik Medical**, I led the full design and development of a healthcare SaaS platform — featuring a **web dashboard for doctors** and a **mobile app for patients**, powered by **Django, React native, and AI-driven automation**.  
 
 I love bridging creativity and engineering — designing clean interfaces, crafting reliable architectures, and turning ambitious ideas into real-world systems that make an impact.
 

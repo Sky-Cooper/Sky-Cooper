@@ -15,10 +15,13 @@ I love bridging creativity and engineering — designing clean interfaces, craft
 ---
 
 ### 🧠 Tech Stack I Work With  
-**Frontend:** React · TypeScript · Redux · Tailwind CSS · React Native  
-**Backend:** Django · PostgreSQL · Redis · REST APIs  
-**DevOps & Tools:** Docker · Nginx · CI/CD · GitHub Actions · Cloud Deployment  
-**Design & Branding:** Figma · System Design · Product Branding  
+Backend & API : Django, GraphQL, REST, Celery, PostgreSQL, Redis, express , springboot, flask , fastApi
+Frontend & Mobile :  html, css, javascript, React,  Redux, TypeScript, React Native, Tailwind CSS
+DevOps : Docker, Kubernetes, Jenkins, CI/CD, Nginx, github actions
+Cloud & Sécurité : Vercel, DigitalOcean, HTTPS, DNS, Cloudflare
+UI/UX & Design Produit : Figma, Design System, Branding
+Langages : Python, Java, JavaScript, TypeScript
+
 
 ---
 
@@ -37,9 +40,9 @@ I love bridging creativity and engineering — designing clean interfaces, craft
 ---
 
 ### 📫 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/mouadhoumada/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mouad-houmada/)  
 🌍 [Portfolio](https://mouadhoumada-co-founder.qreeblik.com/)  
-📧 mouadhoumada.business@gmail.com  
+📧 mouadhoumada@gmail.com  
 
 ---
 

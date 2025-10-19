@@ -15,13 +15,24 @@ I love bridging creativity and engineering — designing clean interfaces, craft
 ---
 
 ### 🧠 Tech Stack I Work With  
-Backend & API : Django, GraphQL, REST, Celery, PostgreSQL, Redis, express , springboot, flask , fastApi
-Frontend & Mobile :  html, css, javascript, React,  Redux, TypeScript, React Native, Tailwind CSS
-DevOps : Docker, Kubernetes, Jenkins, CI/CD, Nginx, github actions
-Cloud & Sécurité : Vercel, DigitalOcean, HTTPS, DNS, Cloudflare
-UI/UX & Design Produit : Figma, Design System, Branding
-Langages : Python, Java, JavaScript, TypeScript
 
+**🖥️ Backend & API**  
+Django · GraphQL · REST · Celery · PostgreSQL · Redis · Express · Spring Boot · Flask · FastAPI  
+
+**💻 Frontend & Mobile**  
+HTML · CSS · JavaScript · React · Redux · TypeScript · React Native · Tailwind CSS  
+
+**⚙️ DevOps**  
+Docker · Kubernetes · Jenkins · CI/CD · Nginx · GitHub Actions  
+
+**☁️ Cloud & Security**  
+Vercel · DigitalOcean · HTTPS · DNS · Cloudflare  
+
+**🎨 UI/UX & Product Design**  
+Figma · Design Systems · Branding  
+
+**🔤 Programming Languages**  
+Python · Java · JavaScript · TypeScript  
 
 ---
 

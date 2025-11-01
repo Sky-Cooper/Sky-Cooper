@@ -72,15 +72,6 @@ I love bridging **creativity and engineering** — designing clean interfaces, c
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sky-Cooper&show_icons=true&theme=react&title_color=FB8513&icon_color=FB8513&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Cooper&layout=compact&theme=react&title_color=FB8513&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🌱 Currently Exploring  
 - Advanced **DevOps pipelines** for scalable cloud deployment  
 - **AI integration** in real-world user experiences  
